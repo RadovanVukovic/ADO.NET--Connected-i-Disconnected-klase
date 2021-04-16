@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTPP-PRVI_KOLOKVIJUM-Prvi_Deo", "MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.csproj", "{BC11F68C-EA42-4AAD-84C3-70C501D191EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTPP-PRVI_KOLOKVIJUM-Drugi_Deo", "MTPP-PRVI_KOLOKVIJUM-Drugi_Deo\MTPP-PRVI_KOLOKVIJUM-Drugi_Deo.csproj", "{ABED6C0F-5FE5-4026-BC07-2BF2DFA660D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC11F68C-EA42-4AAD-84C3-70C501D191EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC11F68C-EA42-4AAD-84C3-70C501D191EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC11F68C-EA42-4AAD-84C3-70C501D191EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC11F68C-EA42-4AAD-84C3-70C501D191EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABED6C0F-5FE5-4026-BC07-2BF2DFA660D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABED6C0F-5FE5-4026-BC07-2BF2DFA660D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABED6C0F-5FE5-4026-BC07-2BF2DFA660D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABED6C0F-5FE5-4026-BC07-2BF2DFA660D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC879FD1-7489-4791-8BC9-095715FB55A2}
+	EndGlobalSection
+EndGlobal

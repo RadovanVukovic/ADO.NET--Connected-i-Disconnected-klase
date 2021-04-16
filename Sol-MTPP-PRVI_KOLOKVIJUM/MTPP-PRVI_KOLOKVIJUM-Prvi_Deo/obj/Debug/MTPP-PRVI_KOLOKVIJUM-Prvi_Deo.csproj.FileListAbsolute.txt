@@ -1,0 +1,10 @@
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\bin\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.exe.config
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\bin\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.exe
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\bin\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.pdb
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.csprojAssemblyReference.cache
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP_PRVI_KOLOKVIJUM_Prvi_Deo.Form1.resources
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP_PRVI_KOLOKVIJUM_Prvi_Deo.Properties.Resources.resources
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.csproj.GenerateResource.cache
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.csproj.CoreCompileInputs.cache
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.exe
+C:\Users\Radovan\source\repos\Sol-MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo\obj\Debug\MTPP-PRVI_KOLOKVIJUM-Prvi_Deo.pdb
